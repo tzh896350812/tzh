@@ -16,9 +16,7 @@ public class User {
 	public void setUname(String uname) {
 		this.uname = uname;
 	}
-	/**
-	 * É¾³ýµã
-	 */
+
 	
 	
 }
