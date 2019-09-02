@@ -16,6 +16,10 @@ public class User {
 	public void setUname(String uname) {
 		this.uname = uname;
 	}
+	@Override
+	public String toString() {
+		return "User [uid=" + uid + ", uname=" + uname + "]";
+	}
 
 	
 	
